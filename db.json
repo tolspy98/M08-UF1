@@ -1,0 +1,7 @@
+{
+  "libros": [
+    { "id": 1, "titulo": "El señor de los anillos", "autor": "J.R.R. Tolkien", "editorial": "Minotauro", "año_publicacion": 1954, "valoracion": 5 },
+    { "id": 2, "titulo": "Cien años de soledad", "autor": "Gabriel García Márquez", "editorial": "Sudamericana", "año_publicacion": 1967, "valoracion": 4 },
+    { "id": 3, "titulo": "1984", "autor": "George Orwell", "editorial": "Secker & Warburg", "año_publicacion": 1949, "valoracion": 5 }
+  ]
+}
